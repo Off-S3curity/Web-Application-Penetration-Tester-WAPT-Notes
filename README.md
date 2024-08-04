@@ -19,6 +19,7 @@ Whether you are aiming to build a career in web security, enhance your programmi
 * [**Introduction to Web App Security Testing (WAPT)**](readme/system-security/)
 * [**Web Fingerprinting and Enumeration (Information Gathering)**](readme/network-security/)
 * [**Web Proxies**](readme/powershell-for-pt/)
+* [OWASP TOP 10](readme/powershell-for-pt-1/)
 * [**Cross-Site Scripting (XSS)**](readme/system-security-1/)
 * [**SQL Injection (SQLi)** ](readme/system-security-2/)
 * [**File & Resource Attacks**](readme/system-security-3/)
